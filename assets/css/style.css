@@ -1,0 +1,31 @@
+
+/*
+*wpac like system css
+*/
+.wpac-btn{
+    display:inline-block;
+    width:46%;
+    padding: 20px;
+    font-size: 20px;
+    margin:0 2%;
+    border: 1px solid #cccccc;
+    background: #f8f8f8;
+    text-align: center;
+    text-transform:uppercase;
+    color:#444444;
+    transition:0.5s all;
+}
+.wpac-btn:hover{
+    text-decoration:none;
+    color:inherit;
+
+}
+.wpac-like-btn:hover{
+    background: #2d8f58;
+    color:#ffffff;
+}
+
+.wpac-dislike-btn:hover{
+    background: #2d8f58;
+    color:#ffffff;
+}
